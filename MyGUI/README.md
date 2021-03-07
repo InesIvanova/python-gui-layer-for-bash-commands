@@ -1,0 +1,1 @@
+Before exploring the desktop app please install ssh-askpass and then export SUDO_ASKPASS environment variable to be equal to the executable of ssh-askpass in your .bashrc (export SUDO_ASKPASS=/usr/bin/ssh-askpass)
